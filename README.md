@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={iuliavisan}&theme={radical}&exclude={exclude}
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={iuliavisan}&theme={radical}&exclude={exclude}
+
 
 
 <!--
