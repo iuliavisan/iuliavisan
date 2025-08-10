@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Iulia</h1>
 
 <div align="center">
-<img src="globe.gif" alt="globe" align="center">
+<img src="img/globe.gif" alt="globe" align="center">
 </div>
 
 <div align="center">
-<img src="welcome-fire.gif" alt="Welcome" align="center">
+<img src="img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
