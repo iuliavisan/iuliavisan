@@ -1,4 +1,18 @@
 <h1 align="center">Hi 👋, I'm Iulia</h1>
+
+<div align="center">
+<img src="globe.gif" alt="globe" align="center">
+</div>
+
+<div align="center">
+<img src="welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
+
+
 <h3 align="center">Business Information Systems student</h3>
 
 <h3 align="left">Connect with me:</h3>
