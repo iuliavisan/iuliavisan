@@ -19,7 +19,7 @@ to my personal GitHub profile!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iuliavisan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuliavisan&layout=compact&theme=tokyonight" />
 </p>
 
 
