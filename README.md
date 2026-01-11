@@ -16,8 +16,9 @@ to my personal GitHub profile!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iulia-visan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iulia-visan" height="30" width="40" /></a>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iuliavisan&show_icons=true&theme=tokyonight)
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iuliavisan&show_icons=true&theme=tokyonight)
 
 
 
