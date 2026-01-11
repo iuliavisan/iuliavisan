@@ -19,7 +19,11 @@ to my personal GitHub profile!
 </p>
 
 
+<div align="center">
 
+![Languages overview](https://raw.githubusercontent.com/iuliavisan/iuliavisan/main/languages-overview.svg)
+
+</div>
 
 
 
