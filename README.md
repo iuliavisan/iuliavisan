@@ -11,7 +11,7 @@ to my personal GitHub profile!
 </div>
 
 
-<h3 align="center">Business Information Systems student</h3>
+<h3 align="center">Business Information Systems graduate</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
